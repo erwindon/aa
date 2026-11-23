@@ -5,7 +5,7 @@
   <version>1.6.1-SNAPSHOT</version>
 
   <properties>
-    <spring.version>7.0.10</spring.version>
+    <spring.version>7.1.0</spring.version>
     <deb.lib.dir>/usr/share/${project.artifactId}/lib</deb.lib.dir>
     <deb.bin>/usr/bin/${project.artifactId}</deb.bin>
     <deb.skip>true</deb.skip>
